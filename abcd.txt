@@ -1,0 +1,6 @@
+software
+mon
+tue
+wed
+thus
+fri
